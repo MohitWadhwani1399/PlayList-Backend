@@ -1,0 +1,15 @@
+{
+  "name": "playlist-backend",
+  "version": "1.0.0",
+  "description": "A backend project to handle video playlists application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Mongo"
+  ],
+  "author": "Mohit Wadhwani",
+  "license": "ISC"
+}
