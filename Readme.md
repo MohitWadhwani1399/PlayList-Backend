@@ -1,1 +1,1 @@
-# A Backend project 
+# A Backend project to handle video playlists
